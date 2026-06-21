@@ -54,3 +54,4 @@ The SQL file inside the tool folder has to be imported to phpmyadmin. Before upl
 User email: admin@gmail.com
 Password: $Testpass1$
 
+1
